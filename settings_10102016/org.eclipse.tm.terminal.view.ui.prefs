@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+terminals.localTerminalDefaultShellUnix=/bin/bash
+terminals.localTerminalDefaultShellUnixArgs=--rcfile asdf

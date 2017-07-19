@@ -1,0 +1,5 @@
+INITIAL_INTERPRETER_CMDS=import sys, math, copy, os; import numpy as np; print('%s %s' % (sys.executable or sys.platform, sys.version))\r\n
+eclipse.preferences.version=1
+pydevconsole_background_color=255,255,255
+pydevconsole_sysin_color=0,0,0
+pydevconsole_sysout_color=0,0,160

@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+org.eclipse.php.debug.core.pathMapper=<pathMappers><item1><mapper><item1><remote>E\:\\Web\\xampp\\htdocs\\PHPvirgin</remote><local>E\:\\Web\\xampp\\htdocs\\PHPvirgin</local><type>EXTERNAL</type></item1></mapper><server>Default PHP Web Server</server></item1></pathMappers>
+org.eclipse.php.debug.coreenable_cli_debug=true
+org.eclipse.php.debug.coreinstalledPHPDebuggers=org.eclipse.php.debug.core.zendDebugger
+org.eclipse.php.debug.coreinstalledPHPDefaults=org.eclipse.php.debug.core.zendDebugger\=PHPexe
+org.eclipse.php.debug.coreinstalledPHPInis=E\:\\LonelyCoder\\XAMPP\\php\\php.ini
+org.eclipse.php.debug.coreinstalledPHPLocations=E\:\\LonelyCoder\\XAMPP\\php\\php.exe
+org.eclipse.php.debug.coreinstalledPHPNames=PHPexe
+org.eclipse.php.debug.corephp_versions=null
